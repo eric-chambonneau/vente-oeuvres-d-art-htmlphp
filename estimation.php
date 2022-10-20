@@ -4,4 +4,11 @@
 echo "Estimation en cours...";
 
 // récupérer une donnée du formulaire
-var_dump($_POST);
+ echo $_POST['annee'];
+
+// variable pour récupérer l'année
+// $nom = $_POST['nom'];
+// $type = $_POST['type']
+// $annee = $_POST['annee'];
+
+// echo "l oeuvre s'appelle :" . $nom;
